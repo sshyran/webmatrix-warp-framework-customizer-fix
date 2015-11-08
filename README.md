@@ -1,4 +1,9 @@
 # webmatrix-warp-framework-customizer-fix
+
+Webmatrix by default will not load any themes "customizer" within the warp framework.
+
+The fix:
+
 Add or replace the web.config file to the root of your website if using wordpress.
 
 Else:
